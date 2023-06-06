@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christina</h1>
-<h3 align="center">Bytes and Beyond: Navigating the World of Computer Science</h3>
+<h3 align="center">Navigating the World of Computer Science</h3>
 
 - 🔭 I’m currently working on **E-Commerce Project**
 
