@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/christinaduthie](https://github.com/christinaduthie)
 
-- 📫 Reach me at **christinarduthie@gmail.com**
+- 📫 Reach me at **christina@duthie.org**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_Eu8UlXawCB3OjF7-qQnv6YawTbA1Nny/view?usp=drive_link](https://drive.google.com/file/d/1_Eu8UlXawCB3OjF7-qQnv6YawTbA1Nny/view?usp=drive_link)
 
