@@ -11,7 +11,7 @@
 
 📄 Download my CV from<br>
 
-💼 My portfolio: <br>
+💼 My portfolio: https://christinaduthie.me/ <br>
 
 
 ## 🌐 Socials:
